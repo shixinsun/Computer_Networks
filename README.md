@@ -13,6 +13,6 @@
 
 #### 1. 概述
 
-- [1.1 计算机网络在信息时代中的作用](docs/1.Introduction/1.1ComputerNetworksFunction)
+- [1.1 计算机网络在信息时代中的作用](docs/1.Introduction/1.1ComputerNetworksFunction.md)
 - 1.2互联网概述
 
